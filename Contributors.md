@@ -2,7 +2,7 @@
 
 This file is a placeholder for project contributors and maintainers.
 
-## Project Leadership
+## Project Leadership & Developers
 
 | Name | GitHub | Role |
 | --- | --- | --- |
